@@ -8,3 +8,5 @@
 The script can be modified to not depend on these functions.
 
 It removes any lines with the <script> tag
+  
+This really only works with simple websites.
